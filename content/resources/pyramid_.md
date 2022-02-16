@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource includes information on working defination of the power
   explained with a power grid.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21a-245j-power-interpersonal-organizational-and-global-dimensions-fall-2005/9cec67cff9d9d8baf0e66b922dfe2f49_pyramid_.pdf
+file: /media/courses/21a-245j-power-interpersonal-organizational-and-global-dimensions-fall-2005/9cec67cff9d9d8baf0e66b922dfe2f49_pyramid_.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: pyramid_.pdf
 uid: 9cec67cf-f9d9-d8ba-f0e6-6b922dfe2f49
