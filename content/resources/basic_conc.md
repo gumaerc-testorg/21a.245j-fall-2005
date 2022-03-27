@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: fc97d10d-4538-2e9a-fda5-c618e2ea5667
 resourcetype: Document
 title: basic_conc.pdf
 uid: e4dbbea1-54e3-c412-2172-3cb1457eabb7

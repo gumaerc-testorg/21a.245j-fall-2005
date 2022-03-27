@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: fdf096c9-e67b-c17a-4d60-acec5cd2ead4
 resourcetype: Document
 title: pyramid_.pdf
 uid: 9cec67cf-f9d9-d8ba-f0e6-6b922dfe2f49

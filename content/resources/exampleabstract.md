@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: fc97d10d-4538-2e9a-fda5-c618e2ea5667
 resourcetype: Document
 title: exampleabstract.pdf
 uid: 4e83c2d7-864c-f12e-5888-ef160b53aac9

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: fdf096c9-e67b-c17a-4d60-acec5cd2ead4
 resourcetype: Document
 title: power_3.pdf
 uid: 9ce0efcb-12c5-d367-6789-0980f10b72fe

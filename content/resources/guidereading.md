@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: fc97d10d-4538-2e9a-fda5-c618e2ea5667
 resourcetype: Document
 title: guidereading.pdf
 uid: 5bff1fa9-c4ba-3fc3-cb36-e5cdd54192b1

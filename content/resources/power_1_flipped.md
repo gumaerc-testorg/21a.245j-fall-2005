@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: fdf096c9-e67b-c17a-4d60-acec5cd2ead4
 resourcetype: Document
 title: power_1_flipped.pdf
 uid: b334fc0e-bcb6-9c0c-d778-5231714f621d

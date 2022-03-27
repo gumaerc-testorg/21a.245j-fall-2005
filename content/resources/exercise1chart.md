@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ac16beab-d34e-06d1-553d-3c275ac55056
 resourcetype: Document
 title: exercise1chart.pdf
 uid: 19bc0883-f283-5e34-c5d9-f73a758f790c
