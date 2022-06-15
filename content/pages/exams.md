@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The exam section includes the mid term exams.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
