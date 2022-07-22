@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus section contains course requirements and expectations, and
+  grading criteria.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 504f2b93-80ee-d7ca-1286-87ec4d859b2d
 ---
