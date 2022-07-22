@@ -6,6 +6,7 @@ file: /courses/21a-245j-power-interpersonal-organizational-and-global-dimensions
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: exercise1chart.pdf
 uid: 19bc0883-f283-5e34-c5d9-f73a758f790c
 ---
 This resource includes a chart containing intent, effect, interaction, and power present.
-

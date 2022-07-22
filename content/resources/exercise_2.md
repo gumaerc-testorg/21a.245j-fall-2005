@@ -6,6 +6,7 @@ file: /courses/21a-245j-power-interpersonal-organizational-and-global-dimensions
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: exercise_2.pdf
 uid: adc81a3f-c46b-88e6-e4f8-21178b668cf5
 ---
 This resource includes question for the poll with options as agree, strongly agree, strongly disagree, and no opinion.
-

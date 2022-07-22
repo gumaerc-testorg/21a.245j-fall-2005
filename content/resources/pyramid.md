@@ -6,6 +6,7 @@ file: /courses/21a-245j-power-interpersonal-organizational-and-global-dimensions
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: pyramid.pdf
 uid: 9fa7c6c8-489b-5463-5767-bd512eee94c0
 ---
 This resource includes information on working defination of the power explained with a power grid.
-

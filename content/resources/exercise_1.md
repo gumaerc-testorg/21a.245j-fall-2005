@@ -5,6 +5,7 @@ file: /courses/21a-245j-power-interpersonal-organizational-and-global-dimensions
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: exercise_1.pdf
 uid: fee235f1-73d1-8a79-f555-785dcf7cd7dd
 ---
 This resource includes five questions on the nature of the power.
-

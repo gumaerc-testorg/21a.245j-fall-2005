@@ -6,6 +6,7 @@ file: /courses/21a-245j-power-interpersonal-organizational-and-global-dimensions
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: power_1_flipped.pdf
 uid: b334fc0e-bcb6-9c0c-d778-5231714f621d
 ---
 This resource includes information on the structure and the transformation of the power.
-
