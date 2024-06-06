@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes information on organize reading over the weeks
   and months, and analytical reading.
 file: /courses/21a-245j-power-interpersonal-organizational-and-global-dimensions-fall-2005/5bff1fa9c4ba3fc3cb36e5cdd54192b1_guidereading.pdf
+file_size: 21315
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
