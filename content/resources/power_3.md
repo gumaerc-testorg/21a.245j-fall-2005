@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on review definations of power, intention
   of power, and studing human social action.
-file: /ol-ocw-studio-app/courses/21a-245j-power-interpersonal-organizational-and-global-dimensions-fall-2005/9ce0efcb12c5d36767890980f10b72fe_power_3.pdf
+file: /courses/21a-245j-power-interpersonal-organizational-and-global-dimensions-fall-2005/9ce0efcb12c5d36767890980f10b72fe_power_3.pdf
 file_size: 64782
 file_type: application/pdf
 learning_resource_types:

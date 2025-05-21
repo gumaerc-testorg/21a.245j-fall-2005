@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on the examples and abstracts of chamblis.
-file: /ol-ocw-studio-app/courses/21a-245j-power-interpersonal-organizational-and-global-dimensions-fall-2005/4e83c2d7864cf12e5888ef160b53aac9_exampleabstract.pdf
+file: /courses/21a-245j-power-interpersonal-organizational-and-global-dimensions-fall-2005/4e83c2d7864cf12e5888ef160b53aac9_exampleabstract.pdf
 file_size: 23541
 file_type: application/pdf
 learning_resource_types: []
