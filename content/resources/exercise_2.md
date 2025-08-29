@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes question for the poll with options as agree, strongly
   agree, strongly disagree, and no opinion.
-file: /courses/21a-245j-power-interpersonal-organizational-and-global-dimensions-fall-2005/adc81a3fc46b88e6e4f821178b668cf5_exercise_2.pdf
+file: /ol-ocw-studio-app/courses/21a-245j-power-interpersonal-organizational-and-global-dimensions-fall-2005/adc81a3fc46b88e6e4f821178b668cf5_exercise_2.pdf
 file_size: 671285
 file_type: application/pdf
 learning_resource_types:
